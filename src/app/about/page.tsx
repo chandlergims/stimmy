@@ -34,7 +34,7 @@ export default function About() {
             <Link href="/" className="hover:text-white transition-colors">&gt; calculator</Link>
             <Link href="/about" className="hover:text-white transition-colors">&gt; about</Link>
             <a href="https://docs.printfun.io/fee-structure-and-distribution/fee-tiers" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">&gt; docs</a>
-            <a href="https://x.com/stimulusprotocol" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">&gt; twitter</a>
+            <a href="https://x.com/stimulusrewards" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">&gt; twitter</a>
           </div>
         </div>
 

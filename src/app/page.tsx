@@ -15,7 +15,7 @@ export default function Home() {
       <HeroSection />
       
       {/* Distribution Wallet - Bottom Middle */}
-      <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 text-xs text-gray-400">
+      <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 text-xs font-mono text-gray-400">
         Distribution Wallet: {process.env.NEXT_PUBLIC_DISTRIBUTION_WALLET || ""}
       </div>
 
